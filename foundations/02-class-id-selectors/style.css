@@ -1,0 +1,19 @@
+/* style.css */
+.odd {
+    background-color: lightpink;
+    font-style: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+.three {
+    font-size: 24px;
+}
+
+#even-two {
+    color:blue;
+    font-size: 36px;
+}
+
+#even-four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
